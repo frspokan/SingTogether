@@ -1,9 +1,7 @@
+**SingTogether**
 
-Dev notes:
+Sing and make music together!
 
-To install Typings:
-npm install --save-dev @types/lodash
+A simple WebRTC prototype for minimum latency audio conferencing in browser, with group chat.  All audio connections are p2p; there is no mixing on the server.
 
-https://webrtc.github.io/samples/
-
-https://webpack.js.org/guides/typescript/
+Using C# with ASP.NET, TypeScript with webpack, SignalR, and AWS Elastic Beanstalk.
